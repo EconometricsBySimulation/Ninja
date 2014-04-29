@@ -63,41 +63,6 @@ function gibs2(nrep=105000;
 end
 gibs2()
 
-# Set random seed for the random generator
-#  so that our results are reproducible
-function gibs3(nrep=105000;
-               seed=123,
-               nb  =5000,
-               rho =.5)
-   # Seed - sets the random number generator seed
-   #   so that it is easy to create reproducible results.
-   # nrep - in the number of repetitions of the MCMC draws.
-   # nb   - number of observations for the "Burn-in"
-   # rho    - Correlation between Y1 and Y2
-   srand(seed)
-
-   # Calculate standard deviation of Y2
-   sigma = sqrt(1-rho^2)
-
-   # Create empty vectors of length nrep
-   y1 = y2 = spzeros(nrep,1)
-
-   # Now we start the Gibbs sampler loop
-   for i in 1:nrep
-     if i == 1
-       ty1 = ty2 = spzeros(nrep,1)
-     else
-       ty2[i] = randn()*sigma+rho*ty1[i-1]
-       ty1[i] = randn()*sigma+rho*ty2[i]
-       if i == nrep ; y1 = ty1 ; y2 = ty2; end
-     end
-   end
-
-   return (y1[(nb+1):end,1],y2[(nb+1):end,1])
-end
-
-gibs3()
-
 @elapsed yy = gibs()
 # 0.063151467
 @elapsed gibs(10^6)
