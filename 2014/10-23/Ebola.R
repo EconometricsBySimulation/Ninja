@@ -15,6 +15,8 @@ library(grid)
 library(plyr); library(scales)
 
 # Find the table at https://github.com/EconometricsBySimulation/Ninja/2014/20-23/Ebola.csv
+# Data assembled by Wikipedia users at
+# http://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa
 ebola <- read.csv("2014-10-22-Ebola.csv", stringsAsFactors=FALSE)
 
 ebola$Date <- as.Date(ebola$Date, format="%m/%d/%Y")
