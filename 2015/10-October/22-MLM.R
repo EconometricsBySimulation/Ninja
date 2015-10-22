@@ -1,4 +1,6 @@
 # MLM
+# This is a simulation of multilevel marketing business structure.
+# It accompanies the blog post: http://www.econometricsbysimulation.com/2015/10/MLM.html
 
 rm(list=ls())
 # First off, let's assume you have a fixed population. I know this might be a big assumption
