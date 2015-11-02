@@ -118,7 +118,7 @@ for (t in 1:TimeFrame) {
     # In order to succeed with sales we have to get our pitch right (RateSales)
     # and be talking with someone who is succeptible to sales attempts.
     sucsale <- 
-      targets[rbinom(SaleAttempt,1,RateSales)==1]
+      targets[rbinom(length(targets),1,RateSales)==1]
   
     # So we have succeeded at sales. Now let's distribute profits
     for (ii in sucsale) {
