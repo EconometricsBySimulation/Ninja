@@ -1,0 +1,56 @@
+Name,Damage_billions,Year,Classification,Loc1,Loc2,Loc3,Loc4,Loc5,Loc6,Fatalities,US_Fatalities,Highest_winds_mph,Lowest_Pressure_mbar
+Harvey,125.0,2017,Category 4 hurricane,Texas,Louisiana,South America,Central America,The Caribbean,Yucatan Peninsula,107,106,130,937
+Maria,91.6,2017,Category 5 hurricane,Puerto Rico,Lesser Antilles,Greater Antilles,Caribbean Sea,Eastern United States,,3057,2982,175,908
+Irma,64.8,2017,Category 5 hurricane,Lesser Antilles,Greater Antilles,Caribbean Sea,Eastern United States,,,134,99,180,914
+Matthew,15.1,2016,Category 5 hurricane,Colombia,Venezuela,The Caribbean,United States East Coast,,,603,47,165,934
+Ingrid,1.5,2013,Category 1 hurricane,Mexico,,,,,,32,32,85,983
+Sandy,68.7,2012,Category 1 hurricane,The Caribbean,United States East Coast,Eastern Canada,,,,233,160,115,940
+Isaac,3.1,2012,Category 1 hurricane,The Caribbean,Eastern United States,,,,,41,5,80,965
+Irene,14.2,2011,Category 3 hurricane,The Caribbean,United States East Coast,Eastern Canada,,,,58,49,120,942
+Lee,2.8,2011,Tropical storm,United States East Coast,,,,,,18,18,60,986
+Karl,3.9,2010,Category 3 hurricane,Mexico,Central America,,,,,22,0,125,956
+Alex,1.5,2010,Category 2 hurricane,Central America,Greater Antilles,Texas,,,,73,0,110,946
+Ike,38.0,2008,Category 4 hurricane,Greater Antilles,Texas,Louisiana,Midwestern United States,Eastern Canada,Iceland,214,113,145,935
+Gustav,8.3,2008,Category 4 hurricane,Hispaniola,Jamaica,Cuba,United States Gulf Coast,,,153,53,155,941
+Dolly,1.6,2008,Category 2 hurricane,Cayman Islands,Mexico,Southwestern United States,,,,22,0,100,963
+Dean,2.0,2007,Category 5 hurricane,The Caribbean,Central America,,,,,45,0,175,905
+Katrina,125.0,2005,Category 5 hurricane,Louisiana,The Bahamas,United States Gulf Coast,South Florida,Northeast,Eastern Canada,1836,1836,175,902
+Wilma,27.4,2005,Category 5 hurricane,Greater Antilles,Central America,Florida,,,,87,62,185,882
+Rita,18.5,2005,Category 5 hurricane,Cuba,United States Gulf Coast,,,,,125,120,180,895
+Dennis,4.0,2005,Category 4 hurricane,Greater Antilles,Southeastern United States,,,,,88,15,150,930
+Stan,4.0,2005,Category 1 hurricane,Mexico,Central America,,,,,1668,0,80,977
+Emily,1.0,2005,Category 5 hurricane,The Caribbean,Honduras,Belize,Mexico,Texas,,17,0,160,929
+Ivan,26.1,2004,Category 5 hurricane,The Caribbean,Venezuela,United States Gulf Coast,,,,124,54,165,910
+Charley,16.9,2004,Category 4 hurricane,Jamaica,Cayman Islands,Cuba,Florida,The Carolinas,,35,30,150,941
+Frances,10.1,2004,Category 4 hurricane,The Caribbean,Eastern United States,Ontario,,,,50,41,145,935
+Jeanne,7.9,2004,Category 3 hurricane,The Caribbean,Eastern United States,,,,,3037,13,120,950
+Isabel,5.5,2003,Category 5 hurricane,Greater Antilles,The Bahamas,Eastern United States,Ontario,,,51,51,165,915
+Isidore,1.3,2002,Category 3 hurricane,Cuba,Yucatán Peninsula,Louisiana,,,,22,5,125,934
+Lili,1.2,2002,Category 4 hurricane,Lesser Antilles,Greater Antilles,Gulf Coast of the United States,,,,15,9,145,938
+Allison,8.5,2001,Tropical storm,Texas,Louisiana,Southern United States,,,,55,41,60,1000
+Michelle,2.4,2001,Category 4 hurricane,Central America,Jamaica,Cuba,The Bahamas,,,82,0,140,933
+Floyd,6.5,1999,Category 4 hurricane,The Bahamas,Eastern United States,Atlantic Canada,,,,74,73,155,921
+Georges,9.4,1998,Category 4 hurricane,The Caribbean,United States Gulf Coast,,,,,604,11,155,937
+Mitch,6.1,1998,Category 5 hurricane,Central America,Yucatán Peninsula,South Florida,,,,11374,2,180,905
+Bonnie,1.0,1998,Category 3 hurricane,Lesser Antilles,East Coast of the United States,,,,,5,1,115,954
+Fran,5.0,1996,Category 3 hurricane,Eastern United States,Ontario,,,,,27,27,120,946
+Opal,4.7,1995,Category 4 hurricane,Guatemala,Yucatán Peninsula,Eastern United States,,,,63,13,150,916
+Luis,3.0,1995,Category 4 hurricane,Leeward Islands,Puerto Rico,Bermuda,,,,19,1,150,935
+Marilyn,2.1,1995,Category 3 hurricane,The Caribbean,Bermuda,,,,,13,13,115,949
+Roxanne,1.5,1995,Category 3 hurricane,Mexico,,,,,,346,0,115,956
+Alberto,1.0,1994,Tropical storm,Southeastern United States,,,,,,32,32,65,993
+Andrew,27.3,1992,Category 5 hurricane,The Bahamas,Florida,United States Gulf Coast,,,,65,57,175,922
+Bob,1.5,1991,Category 3 hurricane,United States East Coast,Canada,,,,,17,16,115,950
+Hugo,9.5,1989,Category 5 hurricane,The Caribbean,United States East Coast,,,,,60,21,160,918
+Gilbert,3.0,1988,Category 5 hurricane,Venezuela,Central America,Hispaniola,Mexico,,,318,3,185,888
+Joan,1.9,1988,Category 4 hurricane,Lesser Antilles,Colombia,Venezuela,Central America,,,334,0,145,932
+Juan,1.5,1985,Category 1 hurricane,United States Gulf Coast,,,,,,12,12,85,971
+Elena,1.3,1985,Category 3 hurricane,Cuba,United States Gulf Coast,,,,,9,9,125,953
+Alicia,3.0,1983,Category 3 hurricane,East Texas,Louisiana,,,,,21,21,115,962
+Allen,1.6,1980,Category 5 hurricane,The Caribbean,Yucatán Peninsula,Mexico,South Texas,,,269,6,190,899
+Frederic,1.8,1979,Category 4 hurricane,The Caribbean,Southeastern United States,,,,,12,5,130,943
+David,1.5,1979,Category 5 hurricane,The Caribbean,United States East Coast,,,,,2069,22,175,924
+Fifi,1.8,1974,Category 2 hurricane,Jamaica,Central America,Mexico,,,,8200,0,110,971
+Agnes,2.1,1972,Category 1 hurricane,Mexico,Cuba,Eastern United States,,,,128,69,85,977
+Camille,1.4,1969,Category 5 hurricane,Mississippi,Louisiana,Alabama,Virginia,Cuba,,259,155,175,900
+Betsy,1.4,1965,Category 4 hurricane,Louisiana,South Florida,Caribbean,,,,81,81,155,941
