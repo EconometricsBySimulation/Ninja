@@ -86,8 +86,8 @@ ggplot(georgewashingtoncorXY0, aes(x=x,y=y)) + geom_point() + theme_bw()
 ggplot(catcorXY0, aes(x=x,y=y)) + geom_point() + theme_bw()
 
 # We can see that b0=0 and the means of x and y are exactly as expected
-lm(y~x,georgewashingtonangle)
-summary(georgewashingtonangle)
+lm(y~x,georgewashingtoncorXY0)
+summary(georgewashingtoncorXY0)
 
 # Save the corXY0 as std (standardized data sets)
 for (i in 1:length(objectlist))
